@@ -1,4 +1,3 @@
-
 body {
     background-color: rgb(82, 209, 184);
     color: rgb(169, 64, 64);
@@ -9,7 +8,6 @@ body {
     height: 700px;
     margin: 0;
 }
-
 button {
     background-color: #a44fa8;
     color: white;
@@ -20,4 +18,11 @@ button {
 }
 .passo.ativo{
     display:block;
+}
+main {
+    text-align: center;
+    max-width: 90%;
+}
+img {
+    max-width: 90%
 }
